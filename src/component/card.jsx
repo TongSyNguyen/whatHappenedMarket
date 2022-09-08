@@ -26,9 +26,9 @@ function Card() {
  ])
   return (
     <div>
-    <div className='showCard flex flex-row gap-[2%] md:gap-[1%] flex-wrap w-[82%] font-eng mx-[9%] mt-[9%] '>
+    <div className='showCard font-eng flex flex-row gap-[4%] md:gap-[1%] flex-wrap w-[90%] sm:w-[82%] mx-auto mt-[9%] '>
       {cards.map(card=>(
-        <div key={card.id} className=' w-[49%] md:w-[32%] lg:w-[19%]  '  >
+        <div key={card.id} className=' w-[48%] md:w-[32%] lg:w-[19%]  '  >
           <img src={card.ava} alt="" className='w-full'/>
           <div className='text-14 font-semibold text-[#222222] text-[90%] md:text-[100%]  '>[what happen] How to create </div>
           <div className='flex items-center'>

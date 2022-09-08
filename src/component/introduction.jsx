@@ -17,11 +17,11 @@ function Introduction() {
     // </div>
     <div className='relative font-eng text-white w-full  '>
       <img src={intro} alt="" id='intro' className=' relative'/>
-      <div className="text-532 absolute top-[-10%] left-[9%] md:top-[20%] lg:top-[20%] xl:top-[25%] ">
-        <span className="text-[20%] md:text-[50%] lg:text-[75%] xl:text-[100%] font-extrabold tracking-[5px]">WHAT HAPPEND!</span>
+      <div className="text-532 absolute top-[-5%] left-[9%] sm:top-[18%] lg:top-[20%] xl:top-[25%] ">
+        <span className="text-[25%] sm:text-[50%] lg:text-[75%] xl:text-[100%] font-extrabold tracking-[5px]">WHAT HAPPEND!</span>
       </div>
-      <div className="text-6 absolute top-[44%] left-[9%] md:top-[44%]  leading-[8px] md:leading-4 lg:leading-[30px] xl:leading-[35px] ">
-        <p className="text-[35%] md:text-[60%] lg:text-[75%] xl:text-[100%] w-[35%]">
+      <div className="text-6 absolute top-[44%] left-[9%] md:top-[44%] leading-[8px] sm:leading-[12px] md:leading-4 lg:leading-[30px] xl:leading-[35px] ">
+        <p className="text-[32%] sm:text-[60%] lg:text-[75%] xl:text-[100%] w-[50%] sm:w-[40%]">
         How to create mobile-optimized videos in minutes. Not a designer,
         every team makes a lot of videos Can be trimmed. Take the first 
         step to your brand's success. How to create 
