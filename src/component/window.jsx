@@ -10,7 +10,7 @@ import obj7 from '../img/object-07.png'
 
 function Window() {
   return (
-    <div  className=' bg-[#0565bb] relative '>
+    <div  className=' bg-[#0565bb] relative w-full '>
       <div className=' m-auto w-full lg:w-[70%] 2xl:w-[50%] text-center text-[#fcd32a] md:pt-[7%] py-[7%] md:pb-0 ' >
         <div className='text-3 font-eng  font-bold tracking-[4.5px] ' >
           <span className='text-[50%] md:text-[60%] lg:text-[80%] xl:text-[100%] '>

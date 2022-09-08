@@ -11,7 +11,7 @@ import Window from './component/window';
 
 function App() {
   return (
-    <div className="App h-screen">
+    <div className="App overflow-x-hidden">
       <Header />
       <Banner />
       <Introduction />

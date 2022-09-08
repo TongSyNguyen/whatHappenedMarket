@@ -39,7 +39,7 @@ function Card() {
         </div>
       ))}
     </div>
-    <button className='align-middle justify-center p-[1%] my-[5%] rounded-md border-[3px] border-[#020001] font-extrabold text-[15px] xl:text-[23px] leading-[25px] flex w-1/3 sm:w-1/10 mx-auto ' >See More</button>
+    <button className='align-middle justify-center p-[0.6%] my-[5%] rounded-md border-[3px] border-[#020001] font-extrabold text-[15px] xl:text-[23px] leading-[25px] flex w-2/5 sm:w-[10%] mx-auto ' >See More</button>
     </div>
   )
 }
